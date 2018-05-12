@@ -1,0 +1,73 @@
+_repo: Creative-Intelligence--Essays-in-the-Pragmatic-Attitude_33727
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Brown, Harold Chapman
+    birthdate: 1879
+    deathdate: 1943
+    gutenberg_agent_id: '36563'
+    url: http://www.gutenberg.org/2009/agents/36563
+  - agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: http://en.wikipedia.org/wiki/John_Dewey
+  - agent_name: Stuart, Henry Waldgrave
+    birthdate: 1870
+    deathdate: 1951
+    gutenberg_agent_id: '36566'
+    url: http://www.gutenberg.org/2009/agents/36566
+  - agent_name: Kallen, Horace Meyer
+    aliases:
+    - Kallen, Horace M. (Horace Meyer)
+    - Kallen, H. M. (Horace Meyer)
+    birthdate: 1882
+    deathdate: 1974
+    gutenberg_agent_id: '36569'
+    url: http://www.gutenberg.org/2009/agents/36569
+  - agent_name: Bode, Boyd Henry
+    alias: Bode, Boyd H. (Boyd Henry)
+    birthdate: 1873
+    deathdate: 1953
+    gutenberg_agent_id: '36565'
+    url: http://www.gutenberg.org/2009/agents/36565
+  - agent_name: Tufts, James Hayden
+    alias: Tufts, James H. (James Hayden)
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '33955'
+    url: http://www.gutenberg.org/2009/agents/33955
+  - agent_name: Mead, George H.
+    gutenberg_agent_id: '36564'
+    url: http://www.gutenberg.org/2009/agents/36564
+  - agent_name: Moore, Addison Webster
+    alias: Moore, A. W. (Addison Webster)
+    birthdate: 1866
+    deathdate: 1930
+    gutenberg_agent_id: '36562'
+    url: http://www.gutenberg.org/2009/agents/36562
+description: ''
+gutenberg_issued: '2010-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'B'
+- !lcsh 'Pragmatism'
+tableOfContents: The need for a recovery of philosophy, by J. Dewey -- Reformation
+  of logic, by A. W. Moore -- Intelligence and mathematics, by H. C. Brown -- Scientific
+  method and individual thinker, by G. H. Mead -- Consciousness and psychology, by
+  B. H. Bode -- The phases of the economic interest, by H. W. Stuart -- The moral
+  life and the construction of values and standards, by J. H. Tufts -- Value and existence
+  in philosophy, art, and religion, by H. M. Kallen.
+title: 'Creative Intelligence: Essays in the Pragmatic Attitude'
+url: http://www.gutenberg.org/ebooks/33727
