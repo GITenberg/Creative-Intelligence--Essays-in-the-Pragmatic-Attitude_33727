@@ -51,6 +51,8 @@ creator:
     gutenberg_agent_id: '36562'
     url: http://www.gutenberg.org/2009/agents/36562
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33727#Creative-Intelligence--Essays-in-the-Pragmatic-Attitude
 gutenberg_issued: '2010-09-14'
 gutenberg_type: Text
 identifiers:
